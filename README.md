@@ -7,4 +7,4 @@ https://roadmap.sh/projects/blog-post-page
 
 ## Project Live URL
 
-https://kosariyadhanesh.github.io/Blog-Post-Page/
+https://kosariyadhanesh.github.io/blog-post-page/
